@@ -1,0 +1,2 @@
+20230501	12:22:02	50b893f5-c2ae-4926-9303-b8ec321e72f0	Error: Not allowed by CORS
+20230501	12:32:45	c3b7687f-33d9-4cab-a9e0-3c5a3e691ec3	TypeError: res.accepts is not a function
